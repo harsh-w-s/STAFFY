@@ -1,0 +1,16 @@
+# frontend
+staffy-frontend/node_modules
+staffy-frontend/dist
+
+# backend
+staffy-backend/target
+
+# IDE
+.idea
+.vscode
+
+# logs
+*.log
+
+# env
+.env
